@@ -1,0 +1,5 @@
+# List of TODOs
++ Jaka je maximalni velikost souboru, kterou muze nahrat FileReader, aby nespadlo nahraveni?
++ Maximalni velikost pameti pro zalozku prohlizece, hlaseni velikosti zabrane pameti v ramci sandboxu?
++ Zmena nastaveni vzorkovaci frekvence Audio API? [nelze]
++ Track analyser?
